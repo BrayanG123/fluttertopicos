@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "920773967835",
+    "firebase_url": "https://topicos-a8945.firebaseio.com",
+    "project_id": "topicos-a8945",
+    "storage_bucket": "topicos-a8945.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920773967835:android:1789148c3c6bb22f7071fe",
+        "android_client_info": {
+          "package_name": "com.topicos.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920773967835-tv551a57mdo8hkq9uiotai5jg3c2slv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5hH7wcpFTEXqjVHOYWCjapo63dXxWuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920773967835-tv551a57mdo8hkq9uiotai5jg3c2slv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
